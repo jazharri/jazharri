@@ -1,7 +1,5 @@
-	<!-- link rel="shortcut icon" href="<?=$website_url;?>/<?=$favicon;?>" / -->
 	<link rel="stylesheet" href="./css/foundation.min.css" />
 	<link rel="stylesheet" href="./css/app.css" />
-
 
 	<script type="text/javascript" src="./js/awesomplete.min.js"></script>
 	<script type="text/javascript" src="./js/jquery.form.js"></script>
